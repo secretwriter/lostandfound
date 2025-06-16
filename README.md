@@ -149,4 +149,4 @@ Developed by:
 - Dikshya Thakur
 - Salina Karki
 
-Under the guidance of [Instructor's Name], as part of Web Application Programming coursework.
+Under the guidance of Pratik sir, as part of Web Application Programming coursework.
